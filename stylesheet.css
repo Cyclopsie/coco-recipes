@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px 30px;
+    background-color: rgb(180, 135, 223);
+}
+h1 {
+    background-color: purple;
+    color: lavender;
+    font-weight: 300px;
+    text-align: center;
+    margin: 20px 200px;
+    padding: 30px 10px;
+}
+
+img {
+    margin: 20px 250px;
+    
+}
+
+.home{
+    margin: 0px 250px;
+    background-color: lavenderblush;
+    padding: 5px
+    
+    
+}
+
+
+
+.heading {
+    text-align: center;
+    background-color: lavenderblush;
+    margin: 15px 100px;
+    padding: 10px;
+
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(228, 238, 182);
+    color: rgb(22, 122, 161);
+}
